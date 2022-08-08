@@ -1,0 +1,36 @@
+.conten1{
+    background-color: mediumspringgreen;
+    min-height: 380px;
+    width: 100%;
+    border-radius: 50px;
+    border: solid 4px green;
+}
+.conten2{
+    background-color: #00fafaef;
+    min-height: 300px;
+    width: 100%;
+    border-radius: 50px;
+    border: solid 4px rebeccapurple;
+
+}
+.conten3{
+    background-color: #f6fa00;
+    min-height: 230px;
+    width: 100%;
+    border-radius: 50px;
+    border: solid 4px orangered;
+}
+.conten4{
+    background-color: #faa200;
+    min-height: 150px;
+    width: 100%;
+    border-radius: 50px;
+    border: solid 4px #9dff00;
+}
+.conten5{
+    background-color: #e500faea;
+    min-height: 90px;
+    width: 100%;
+    border-radius: 50px;
+    border: solid 3px blueviolet;
+}
